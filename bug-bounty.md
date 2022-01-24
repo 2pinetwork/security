@@ -2,7 +2,7 @@
 
 The 2PI Network bug bounty program is focused around our smart contracts, websites, and apps with a primary interest in the prevention of loss of user funds.
 
-[Watch on Immunefi](https://immunefi.com/bounty/2pi-network/)
+[Watch on Immunefi](https://immunefi.com/bounty/2pi/)
 
 **Smart Contracts and Blockchain**\*
 
